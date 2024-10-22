@@ -12,7 +12,7 @@ model using Transfer function and State Space Equation. The controller is traine
 Soft Actor-Crtic (SAC), Proximal Policy Optimization (PPO), and Deep Deterministic Policy
 Gradient (DDPG) algorithm, with Simulink employed to simulate the water tank system
 and establish an experimental test bench for comparsion between them.
-The ndings indicate that the Soft Actor-Critic (SAC) algorithm deliver the best result
+The findings indicate that the Soft Actor-Critic (SAC) algorithm deliver the best result
 in signal tracking, achieving high speed and low error relative to the reference signal when
 compared to other reinforcement learning (RL) algorithms. However, algorithms such as
 Proximal Policy Optimization (PPO) demonstrate superior performance in maintaining
