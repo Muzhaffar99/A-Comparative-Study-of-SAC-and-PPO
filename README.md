@@ -18,7 +18,7 @@ Proximal Policy Optimization (PPO) demonstrate superior performance in maintaini
 minimal steady-state error, despite requiring a significantly longer training period in the
 context of a single-tank system. In more complex scenarios, such as the quadruple-tank
 system, SAC proves to be superior due to its advantage in handling continuous action
-spaces, where PPO tends to diverge signicantly.
+spaces, where PPO tends to diverge significantly.
 Achieving success in machine learning necessitates the tuning of numerous hyperparameters,
 a process that is both time-consuming and labor-intensive. The practical insights
 derived from this research are corroborated by existing literature, underscoring the robustness
