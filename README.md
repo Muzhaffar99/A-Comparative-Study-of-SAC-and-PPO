@@ -1,7 +1,3 @@
-Here is a `README.md` entry in the same elegant format you requested, tailored to your dissertation **“A Comparative Study of SAC and PPO Algorithms in Reservoir Water Level Control Simulation”**:
-
----
-
 # RL-Based Control of Reservoir Systems Using SAC and PPO
 
 ## Author
