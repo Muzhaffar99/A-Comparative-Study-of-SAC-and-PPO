@@ -106,13 +106,6 @@ $$
   <img src="sac_training_single.png" alt="SAC Single-Tank" width="500"/>
 </p>
 
-* **PPO Performance on Quadruple-Tank:**
-
-<p align="center">
-  <img src="ppo_training_quad.png" alt="PPO Quadruple-Tank" width="500"/>
-</p>
-
----
 
 ## 🧰 Implementation
 
