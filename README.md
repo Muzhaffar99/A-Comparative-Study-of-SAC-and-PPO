@@ -65,7 +65,7 @@ Control goals include:
 ### **Single-Tank System**
 
 <p align="center">
-  <img src="" alt="Single Tank Diagram" width="400"/>
+  <img src="System Model.png" alt="Single Tank Diagram" width="400"/>
 </p>
 
 Governing equation:
@@ -77,7 +77,7 @@ $$
 ### **Quadruple-Tank System**
 
 <p align="center">
-  <img src="Quadruple_Tank_Model.png" alt="Quadruple Tank Diagram" width="400"/>
+  <img src="Quadruple-tank.png" alt="Quadruple Tank Diagram" width="400"/>
 </p>
 
 * Inputs: voltages $u_1, u_2$
