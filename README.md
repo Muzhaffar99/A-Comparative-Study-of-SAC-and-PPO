@@ -89,14 +89,6 @@ Governing equation:
   <img src="https://quicklatex.com/cache3/7c/ql_3439bb7b713fb297377ece9b188d4a7c_l3.png" alt="Quadruple Tank Diagram" width="400"/>
 </p>
 
-
-## Notes
-
-- \( g \): Acceleration due to gravity
-- \( A_i \): Cross-sectional areas of the tanks
-- \( a_i \): Outlet coefficients
-- \( \gamma_1, \gamma_2 \): Flow distribution ratios
-
 * Inputs: voltages $u_1, u_2$
 * Outputs: water levels $h_1, h_2$
 * Coupled nonlinear flow dynamics
