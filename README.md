@@ -7,6 +7,7 @@ Here is a `README.md` entry in the same elegant format you requested, tailored t
 ## Author
 
 **Muzhaffar Maruf Ibrahim**
+
 Department of Automatic Control & Systems Engineering, University of Sheffield
 
 ---
