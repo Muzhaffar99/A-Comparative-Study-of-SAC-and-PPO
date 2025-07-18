@@ -65,7 +65,7 @@ Control goals include:
 ### **Single-Tank System**
 
 <p align="center">
-  <img src="Single_Tank_Model.png" alt="Single Tank Diagram" width="400"/>
+  <img src="" alt="Single Tank Diagram" width="400"/>
 </p>
 
 Governing equation:
