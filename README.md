@@ -80,6 +80,13 @@ $$
   <img src="Quadruple-tank.png" alt="Quadruple Tank Diagram" width="400"/>
 </p>
 
+
+Governing equation:
+
+$$
+A \\frac{dH(t)}{dt} = bV - a\\sqrt{H}
+$$
+
 * Inputs: voltages $u_1, u_2$
 * Outputs: water levels $h_1, h_2$
 * Coupled nonlinear flow dynamics
