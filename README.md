@@ -103,7 +103,7 @@ $$
 * **SAC Performance on Single-Tank:**
 
 <p align="center">
-  <img src="sac_training_single.png" alt="SAC Single-Tank" width="500"/>
+  <img src="Quadrupel-tank.png" alt="SAC Single-Tank" width="500"/>
 </p>
 
 
